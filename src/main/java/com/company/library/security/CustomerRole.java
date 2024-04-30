@@ -27,7 +27,7 @@ public interface CustomerRole {
     @EntityPolicy(entityClass = Book.class, actions = EntityPolicyAction.READ)
     void book();
 
-    @MenuPolicy(menuIds = {"BookHistory.list", "Book.list"})
-    @ViewPolicy(viewIds = {"BookHistory.list", "Book.list", "LoginView", "MainView", "BookHistory.detail"})
+    @MenuPolicy(menuIds = {"BookHistory.list", "Book.list", "datatl_entityInspectorListView"})
+    @ViewPolicy(viewIds = {"BookHistory.list", "Book.list", "LoginView", "MainView", "BookHistory.detail", "datatl_entityInspectorListView", "entityInfoView", "datatl_entityInspectorDetailView", "flowui_AddConditionView", "flowui_GroupFilterCondition.detail", "flowui_JpqlFilterCondition.detail", "flowui_PropertyFilterCondition.detail", "changePasswordView"})
     void screens();
 }
