@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<view xmlns="http://jmix.io/schema/flowui/view"
+      title="msg://bookDetailView.title"
+      focusComponent="form">
+    <data>
+        <instance id="bookDc"
+                  class="com.company.library.entity.Book">
+            <fetchPlan extends="_base">
+                <property name="id"/>
+            </fetchPlan>
+            <loader/>
+        </instance>
+    </data>
+    <facets>
+        <dataLoadCoordinator auto="true"/>
+    </facets>
+    <actions>
+        <action id="saveAction" type="detail_saveClose"/>
+        <action id="closeAction" type="detail_close"/>
+    </actions>
+    <layout>
+        <formLayout id="form" dataContainer="bookDc">
+            <textField id="authorField" property="author"/>
+            <checkbox id="availableField" property="available"/>
+            <textField id="genreField" property="genre"/>
+            <textField id="isbnField" property="isbn"/>
+            <datePicker id="publicationDateField" property="publicationDate"/>
+            <textField id="titleField" property="title"/>
+        </formLayout>
+        <hbox id="detailActions">
+            <button id="saveAndCloseBtn" action="saveAction"/>
+            <button id="closeBtn" action="closeAction"/>
+        </hbox>
+    </layout>
+</view>

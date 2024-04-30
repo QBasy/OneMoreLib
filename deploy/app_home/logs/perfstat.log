@@ -1,0 +1,90 @@
+Performance Statistics   2024-04-09 23:59:00 - 2024-04-10 00:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 00:00:00 - 2024-04-10 00:01:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:10:00 - 2024-04-10 08:11:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:11:00 - 2024-04-10 08:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:12:00 - 2024-04-10 08:13:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:13:00 - 2024-04-10 08:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:14:00 - 2024-04-10 08:15:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:15:00 - 2024-04-10 08:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:16:00 - 2024-04-10 08:17:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:17:00 - 2024-04-10 08:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:18:00 - 2024-04-10 08:19:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:19:00 - 2024-04-10 08:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,9           0           3         0,9          33
+Messages.searchClasspath                                 0,0           0           7         0,2        1698
+Messages.searchFiles                                     0,0           0           0         0,0        1698
+ViewRepository.init.ViewRepositoryClientImpl            10,0          10          10         0,0           1
+ViewRepository.init.ViewRepositoryImpl                  14,0          14          14         0,0           1
+
+Performance Statistics   2024-04-10 08:20:00 - 2024-04-10 08:21:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,0           0           0         0,0           1
+
+Performance Statistics   2024-04-10 08:21:00 - 2024-04-10 08:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:22:00 - 2024-04-10 08:23:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:23:00 - 2024-04-10 08:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:24:00 - 2024-04-10 08:25:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:25:00 - 2024-04-10 08:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:26:00 - 2024-04-10 08:27:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:27:00 - 2024-04-10 08:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:28:00 - 2024-04-10 08:29:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:29:00 - 2024-04-10 08:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:30:00 - 2024-04-10 08:31:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:31:00 - 2024-04-10 08:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:32:00 - 2024-04-10 08:33:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:33:00 - 2024-04-10 08:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:34:00 - 2024-04-10 08:35:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:35:00 - 2024-04-10 08:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+

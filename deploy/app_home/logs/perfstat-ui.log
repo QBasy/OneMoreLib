@@ -1,0 +1,195 @@
+Performance Statistics   2024-04-09 23:58:00 - 2024-04-10 00:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 00:00:00 - 2024-04-10 00:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:10:00 - 2024-04-10 08:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:12:00 - 2024-04-10 08:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:14:00 - 2024-04-10 08:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:16:00 - 2024-04-10 08:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:18:00 - 2024-04-10 08:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.screenProfiler                                 61,0          61          61         0,0           1
+MenuItem.sec$Group.browse                              291,0          77         505       214,0           2
+MenuItem.sec$Role.browse                                72,0          72          72         0,0           1
+MenuItem.sec$SessionLogEntry.browse                     46,0          46          46         0,0           1
+MenuItem.sec$User.browse                               693,5          98        1289       595,5           2
+MenuItem.sec$UserSessionEntity.browse                   52,0          52          52         0,0           1
+MenuItem.serverLog                                     165,0         165         165         0,0           1
+MenuItem.sys$Category.browse                            53,0          53          53         0,0           1
+MenuItem.sys$FileDescriptor.browse                      42,0          42          42         0,0           1
+MenuItem.sys$LockInfo.browse                            26,0          13          39        13,0           2
+MenuItem.sys$SendingMessage.browse                     304,0         304         304         0,0           1
+login#afterShow                                          0,0           0           0         0,0           1
+login#beforeShow                                         0,0           0           0         0,0           1
+login#create                                             2,0           2           2         0,0           1
+login#init                                               0,0           0           0         0,0           1
+login#inject                                             1,0           1           1         0,0           1
+login#load                                              10,0          10          10         0,0           1
+login#uiPermissions                                      0,0           0           0         0,0           1
+login#xml                                                1,0           1           1         0,0           1
+lookupWindowActions#create                               2,1           0          15         5,2           7
+lookupWindowActions#inject                               1,0           0           7         2,4           7
+lookupWindowActions#load                                 0,9           0           5         1,7           7
+lookupWindowActions#xml                                  0,2           0           2         0,6          14
+main#afterShow                                           5,0           5           5         0,0           1
+main#beforeShow                                          0,0           0           0         0,0           1
+main#create                                             13,0          13          13         0,0           1
+main#init                                               25,0          25          25         0,0           1
+main#inject                                              8,0           8           8         0,0           1
+main#load                                              165,0         165         165         0,0           1
+main#uiPermissions                                       0,0           0           0         0,0           1
+main#xml                                                 3,0           3           3         0,0           1
+screenProfiler#afterShow                                 0,0           0           0         0,0           1
+screenProfiler#beforeShow                                2,0           2           2         0,0           1
+screenProfiler#create                                    0,0           0           0         0,0           1
+screenProfiler#init                                      5,0           5           5         0,0           1
+screenProfiler#inject                                    3,0           3           3         0,0           1
+screenProfiler#load                                     34,0          34          34         0,0           1
+screenProfiler#uiPermissions                             0,0           0           0         0,0           1
+screenProfiler#xml                                       1,0           0           2         1,0           2
+screenProfiler@allUsersDs                                6,0           6           6         0,0           1
+sec$Group.browse#afterShow                               0,0           0           0         0,0           2
+sec$Group.browse#beforeShow                              0,0           0           0         0,0           2
+sec$Group.browse#companion                               1,5           0           3         1,5           2
+sec$Group.browse#create                                  2,5           0           5         2,5           2
+sec$Group.browse#init                                   72,5          39         106        33,5           2
+sec$Group.browse#inject                                  3,0           0           6         3,0           2
+sec$Group.browse#load                                  183,5          12         355       171,5           2
+sec$Group.browse#uiPermissions                           0,0           0           0         0,0           2
+sec$Group.browse#xml                                     0,8           0           3         1,3           4
+sec$Group.browse@usersDs                                19,0          12          26         7,0           2
+sec$Role.browse#afterShow                                0,0           0           0         0,0           1
+sec$Role.browse#beforeShow                               3,0           3           3         0,0           1
+sec$Role.browse#create                                   1,0           1           1         0,0           1
+sec$Role.browse#init                                     5,0           5           5         0,0           1
+sec$Role.browse#inject                                   6,0           6           6         0,0           1
+sec$Role.browse#load                                    26,0          26          26         0,0           1
+sec$Role.browse#uiPermissions                            0,0           0           0         0,0           1
+sec$Role.browse#xml                                      1,5           0           3         1,5           2
+sec$Role.browse.lookupWindowActions#init                 0,0           0           0         0,0           1
+sec$SessionLogEntry.browse#afterShow                     0,0           0           0         0,0           1
+sec$SessionLogEntry.browse#beforeShow                    0,0           0           0         0,0           1
+sec$SessionLogEntry.browse#create                        0,0           0           0         0,0           1
+sec$SessionLogEntry.browse#init                          0,0           0           0         0,0           1
+sec$SessionLogEntry.browse#inject                        4,0           4           4         0,0           1
+sec$SessionLogEntry.browse#load                          8,0           8           8         0,0           1
+sec$SessionLogEntry.browse#uiPermissions                 0,0           0           0         0,0           1
+sec$SessionLogEntry.browse#xml                           0,5           0           1         0,5           2
+sec$SessionLogEntry.browse.lookupWindowActions#init         0,0           0           0         0,0           1
+sec$SessionLogEntry.browse@sessionsDs                   15,0          15          15         0,0           1
+sec$User.browse#afterShow                                0,0           0           0         0,0           2
+sec$User.browse#beforeShow                               0,0           0           0         0,0           2
+sec$User.browse#create                                  11,0           0          22        11,0           2
+sec$User.browse#init                                    11,0           1          21        10,0           2
+sec$User.browse#inject                                  12,0           0          24        12,0           2
+sec$User.browse#load                                   304,5           6         603       298,5           2
+sec$User.browse#uiPermissions                            0,0           0           0         0,0           2
+sec$User.browse#xml                                      0,8           0           3         1,3           4
+sec$User.browse.lookupWindowActions#init                 0,0           0           0         0,0           2
+sec$User.browse@usersDs                                192,0           8         376       184,0           2
+sec$UserSessionEntity.browse#afterShow                   0,0           0           0         0,0           1
+sec$UserSessionEntity.browse#beforeShow                  2,0           2           2         0,0           1
+sec$UserSessionEntity.browse#create                      0,0           0           0         0,0           1
+sec$UserSessionEntity.browse#init                        0,0           0           0         0,0           1
+sec$UserSessionEntity.browse#inject                      6,0           6           6         0,0           1
+sec$UserSessionEntity.browse#load                       12,0          12          12         0,0           1
+sec$UserSessionEntity.browse#uiPermissions               0,0           0           0         0,0           1
+sec$UserSessionEntity.browse#xml                         1,5           0           3         1,5           2
+sec$UserSessionEntity.browse.lookupWindowActions#init         0,0           0           0         0,0           1
+serverLog#afterShow                                      0,0           0           0         0,0           1
+serverLog#beforeShow                                     0,0           0           0         0,0           1
+serverLog#create                                         3,0           3           3         0,0           1
+serverLog#init                                          53,0          53          53         0,0           1
+serverLog#inject                                         9,0           9           9         0,0           1
+serverLog#load                                          84,0          84          84         0,0           1
+serverLog#uiPermissions                                  0,0           0           0         0,0           1
+serverLog#xml                                            1,0           0           2         1,0           2
+serverLog@jmxInstancesDs                                 9,0           9           9         0,0           1
+sys$Category.browse#afterShow                            0,0           0           0         0,0           1
+sys$Category.browse#beforeShow                           0,0           0           0         0,0           1
+sys$Category.browse#create                               0,0           0           0         0,0           1
+sys$Category.browse#init                                 4,0           4           4         0,0           1
+sys$Category.browse#inject                               5,0           5           5         0,0           1
+sys$Category.browse#load                                14,0          14          14         0,0           1
+sys$Category.browse#uiPermissions                        0,0           0           0         0,0           1
+sys$Category.browse#xml                                  1,0           0           2         1,0           2
+sys$Category.browse.lookupWindowActions#init             0,0           0           0         0,0           1
+sys$Category.browse@categoriesDs                         8,0           8           8         0,0           1
+sys$FileDescriptor.browse#afterShow                      0,0           0           0         0,0           1
+sys$FileDescriptor.browse#beforeShow                     0,0           0           0         0,0           1
+sys$FileDescriptor.browse#create                         0,0           0           0         0,0           1
+sys$FileDescriptor.browse#init                           0,0           0           0         0,0           1
+sys$FileDescriptor.browse#inject                         4,0           4           4         0,0           1
+sys$FileDescriptor.browse#load                           7,0           7           7         0,0           1
+sys$FileDescriptor.browse#uiPermissions                  0,0           0           0         0,0           1
+sys$FileDescriptor.browse#xml                            1,5           0           3         1,5           2
+sys$FileDescriptor.browse.lookupWindowActions#init         0,0           0           0         0,0           1
+sys$FileDescriptor.browse@filesDs                        8,0           8           8         0,0           1
+sys$LockInfo.browse#afterShow                            0,0           0           0         0,0           2
+sys$LockInfo.browse#beforeShow                           1,0           0           2         1,0           2
+sys$LockInfo.browse#create                               0,0           0           0         0,0           2
+sys$LockInfo.browse#init                                 1,0           0           2         1,0           2
+sys$LockInfo.browse#inject                               1,5           0           3         1,5           2
+sys$LockInfo.browse#load                                 6,5           3          10         3,5           2
+sys$LockInfo.browse#uiPermissions                        0,0           0           0         0,0           2
+sys$LockInfo.browse#xml                                  0,5           0           2         0,9           4
+sys$LockInfo.browse@lockDescriptorDs                     7,0           5           9         2,0           2
+sys$SendingMessage.browse#afterShow                      0,0           0           0         0,0           1
+sys$SendingMessage.browse#beforeShow                     0,0           0           0         0,0           1
+sys$SendingMessage.browse#create                         1,0           1           1         0,0           1
+sys$SendingMessage.browse#init                          42,0          42          42         0,0           1
+sys$SendingMessage.browse#inject                         4,0           4           4         0,0           1
+sys$SendingMessage.browse#load                         218,0         218         218         0,0           1
+sys$SendingMessage.browse#uiPermissions                  0,0           0           0         0,0           1
+sys$SendingMessage.browse#xml                            1,5           0           3         1,5           2
+sys$SendingMessage.browse@sendingMessageDs              16,0          16          16         0,0           1
+
+Performance Statistics   2024-04-10 08:20:00 - 2024-04-10 08:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+MenuItem.sec$User.browse                                48,0          48          48         0,0           1
+lookupWindowActions#create                               0,0           0           0         0,0           1
+lookupWindowActions#inject                               0,0           0           0         0,0           1
+lookupWindowActions#load                                 1,0           1           1         0,0           1
+lookupWindowActions#xml                                  0,5           0           1         0,5           2
+sec$User.browse#afterShow                                0,0           0           0         0,0           1
+sec$User.browse#beforeShow                               0,0           0           0         0,0           1
+sec$User.browse#create                                   0,0           0           0         0,0           1
+sec$User.browse#init                                     0,0           0           0         0,0           1
+sec$User.browse#inject                                   0,0           0           0         0,0           1
+sec$User.browse#load                                     3,0           3           3         0,0           1
+sec$User.browse#uiPermissions                            0,0           0           0         0,0           1
+sec$User.browse#xml                                      1,5           0           3         1,5           2
+sec$User.browse.lookupWindowActions#init                 0,0           0           0         0,0           1
+sec$User.browse@usersDs                                  5,0           5           5         0,0           1
+
+Performance Statistics   2024-04-10 08:22:00 - 2024-04-10 08:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:24:00 - 2024-04-10 08:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:26:00 - 2024-04-10 08:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:28:00 - 2024-04-10 08:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:30:00 - 2024-04-10 08:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:32:00 - 2024-04-10 08:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2024-04-10 08:34:00 - 2024-04-10 08:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
