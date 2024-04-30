@@ -15,7 +15,8 @@
                 <query>
                     <![CDATA[select e from UserBook e
                     join e.Book B
-                    where B.avaliable = :true  ]]>
+                    where B.avaliaBookle = :true
+                    and e.user = :user  ]]>
                 </query>
             </loader>
         </collection>

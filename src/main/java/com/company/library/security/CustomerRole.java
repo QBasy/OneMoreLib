@@ -8,6 +8,7 @@ import io.jmix.security.model.EntityPolicyAction;
 import io.jmix.security.role.annotation.EntityAttributePolicy;
 import io.jmix.security.role.annotation.EntityPolicy;
 import io.jmix.security.role.annotation.ResourceRole;
+import io.jmix.security.role.annotation.SpecificPolicy;
 import io.jmix.securityflowui.role.annotation.MenuPolicy;
 import io.jmix.securityflowui.role.annotation.ViewPolicy;
 
@@ -30,4 +31,7 @@ public interface CustomerRole {
     @MenuPolicy(menuIds = {"BookHistory.list", "Book.list", "UserBook.list"})
     @ViewPolicy(viewIds = {"BookHistory.list", "Book.list", "LoginView", "MainView", "BookHistory.detail", "entityInfoView", "flowui_AddConditionView", "flowui_GroupFilterCondition.detail", "flowui_JpqlFilterCondition.detail", "flowui_PropertyFilterCondition.detail", "changePasswordView", "datatl_entityInspectorListView", "datatl_entityInspectorDetailView", "inputDialog", "UserBook.list"})
     void screens();
+
+    @SpecificPolicy(resources = {"ui.genericfilter.modifyConfiguration", "ui.genericfilter.modifyJpqlCondition", "datatools.showEntityInfo", "ui.genericfilter.modifyGlobalConfiguration"})
+    void specific();
 }
